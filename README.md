@@ -1,1 +1,0 @@
-mlb_teams_logo_svg
